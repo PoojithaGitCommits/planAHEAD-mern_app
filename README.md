@@ -1,1 +1,1 @@
-# planAHEAD-mern_app
+# planAHEAD-mern_app CONCEPTS WILL BE DISCUSSED HERE
